@@ -29,7 +29,7 @@
  
 ## 📫 Connect 📫
   [![Naver Badge](http://img.shields.io/badge/pourding@naver.com-03C75A?style=for-the-badgestyle=flat-squaret&logo=Naver&logoColor=white"&link=pourding@naver.com/)]()
-  [![Instagram Badge](http://img.shields.io/badge/Instagram%20blog-E4405F?style=for-the-badgestyle=flat-squaret&logo=Instagram&logoColor=white"&link=https://www.instagram.com/sh._dingx2/)](https://www.instagram.com/sh._dingx2/)
+  [![Instagram Badge](http://img.shields.io/badge/Instagram-E4405F?style=for-the-badgestyle=flat-squaret&logo=Instagram&logoColor=white"&link=https://www.instagram.com/sh._dingx2/)](https://www.instagram.com/sh._dingx2/)
  
 
 
