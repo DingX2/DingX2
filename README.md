@@ -13,7 +13,7 @@
 
 <br/>
 
-## 📝Skill
+## 📝 Skill 📝
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badgestyle=flat-squaret&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badgestyle=flat-squaret&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badgestyle=flat-squaret&logo=Python&logoColor=white">
@@ -22,12 +22,12 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badgestyle=flat-squaret&logo=CSS3&logoColor=white">
 
 
-## 📫 Tech
+##  📫 Tech 📫
   [![Tech Blog Badge](http://img.shields.io/badge/Tech%20blog-000000?style=for-the-badgestyle=flat-squaret&logo=Tistory&logoColor=white"&link=https://dingx2-story.tistory.com/)](https://dingx2-story.tistory.com/)
-  [![Tech Instagram Badge](http://img.shields.io/badge/Tech%20Instagram%20blog-E4405F?style=for-the-badgestyle=flat-squaret&logo=Instagram&logoColor=white"&link=https://www.instagram.com/studywith134340/)](https://www.instagram.com/studywith134340/)
+  [![Tech Instagram Badge](http://img.shields.io/badge/Tech%20Instagram-E4405F?style=for-the-badgestyle=flat-squaret&logo=Instagram&logoColor=white"&link=https://www.instagram.com/studywith134340/)](https://www.instagram.com/studywith134340/)
  
  
-## 📫 Connect
+## 📫 Connect 📫
   [![Naver Badge](http://img.shields.io/badge/email-03C75A?style=for-the-badgestyle=flat-squaret&logo=Naver&logoColor=white"&link=https://www.naver.com/)](https://dingx2-story.tistory.com/)
   [![Instagram Badge](http://img.shields.io/badge/Instagram%20blog-E4405F?style=for-the-badgestyle=flat-squaret&logo=Instagram&logoColor=white"&link=https://www.instagram.com/sh._dingx2/)](https://www.instagram.com/sh._dingx2/)
  
