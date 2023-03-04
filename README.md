@@ -28,7 +28,7 @@
  
  
 ## 📫 Connect 📫
-  [![Naver Badge](http://img.shields.io/badge/email-03C75A?style=for-the-badgestyle=flat-squaret&logo=Naver&logoColor=white"&link=https://www.naver.com/)](https://dingx2-story.tistory.com/)
+  [![Naver Badge](http://img.shields.io/badge/pourding@naver.com-03C75A?style=for-the-badgestyle=flat-squaret&logo=Naver&logoColor=white"&link=pourding@naver.com/)]()
   [![Instagram Badge](http://img.shields.io/badge/Instagram%20blog-E4405F?style=for-the-badgestyle=flat-squaret&logo=Instagram&logoColor=white"&link=https://www.instagram.com/sh._dingx2/)](https://www.instagram.com/sh._dingx2/)
  
 
