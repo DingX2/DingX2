@@ -36,6 +36,11 @@
 <b>2023 ~ ing</b><br/><br/>
 🐚21.03~ 현재 / IT 학술동아리 해달 / 교육운영진(C언어,리액트,알고리즘)<br/>
 🐚03.~ / 멋쟁이사자처럼 11기 FE<br/>
+멋사 중앙해커톤 참여<br/>
+<https://github.com/KimKyuHoi/ShareIT-Frontend/><br/>
+- <http://223.130.134.83/>
+
+
 🐚03 / 종합설계프로젝트1 / 위치관제 고도화를 위한 산학 협력 프로젝트 FE<br/>
 <https://github.com/seungunleeee/capstone_design_KNU><br/>
 🐚01.12 ~ 02.24 / 키나바프렌즈 2기<br/>
