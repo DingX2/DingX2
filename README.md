@@ -40,9 +40,11 @@
 <https://github.com/KimKyuHoi/ShareIT-Frontend/><br/>
 <http://223.130.134.83/><br/>
 
-
-🐚03 / 종합설계프로젝트1 / 위치관제 고도화를 위한 산학 협력 프로젝트 FE<br/>
+🐚 졸업논문 / Aspergillus flavus에서 conF와 conJ가 진균 발달과 Aflatoxin 
+B1의 생산에 미치는 영향 <br/>
+🐚03 / 종합설계프로젝트1 / N대N 관제 시스템에서 메인 서버의 부하 경감을 위한 시스템 아키텍처 연구 FE / 논문<br/>
 <https://github.com/seungunleeee/capstone_design_KNU><br/>
+https://www-dbpia-co-kr.libproxy.knu.ac.kr/journal/articleDetail?nodeId=NODE11488486<br/>
 🐚01.12 ~ 02.24 / 키나바프렌즈 2기<br/>
 🐚02.01 ~ 03 / IT학술동아리 해달 / 동아리 소개홈페이지 제작, 리액트 팀장<br/>
 <https://dingx2.github.io/Haedal-React-introduction/><br/>
