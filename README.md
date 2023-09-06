@@ -43,6 +43,8 @@
 🐚 졸업논문 / Aspergillus flavus에서 conF와 conJ가 진균 발달과 Aflatoxin 
 B1의 생산에 미치는 영향 <br/>
 🐚03 / 종합설계프로젝트1 / N대N 관제 시스템에서 메인 서버의 부하 경감을 위한 시스템 아키텍처 연구 FE / 논문<br/>
+![before_Capstone1](https://github.com/DingX2/DingX2/assets/96682768/334dc370-13f0-480e-8d23-de501a1ee677)<br/>
+![after_Capstone1](https://github.com/DingX2/DingX2/assets/96682768/b9f3349a-497f-4a2d-b12f-a6a65601f673)<br/>
 <https://github.com/seungunleeee/capstone_design_KNU><br/>
 https://www-dbpia-co-kr.libproxy.knu.ac.kr/journal/articleDetail?nodeId=NODE11488486<br/>
 🐚01.12 ~ 02.24 / 키나바프렌즈 2기<br/>
