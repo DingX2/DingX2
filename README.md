@@ -46,7 +46,7 @@ B1의 생산에 미치는 영향 <br/>
 ![before_Capstone1](https://github.com/DingX2/DingX2/assets/96682768/334dc370-13f0-480e-8d23-de501a1ee677)<br/>
 ![after_Capstone1](https://github.com/DingX2/DingX2/assets/96682768/b9f3349a-497f-4a2d-b12f-a6a65601f673)<br/>
 <https://github.com/seungunleeee/capstone_design_KNU><br/>
-https://www-dbpia-co-kr.libproxy.knu.ac.kr/journal/articleDetail?nodeId=NODE11488486<br/>
+[https://www-dbpia-co-kr.libproxy.knu.ac.kr/journal/articleDetail?nodeId=NODE11488486](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488486)<br/>
 🐚01.12 ~ 02.24 / 키나바프렌즈 2기<br/>
 🐚02.01 ~ 03 / IT학술동아리 해달 / 동아리 소개홈페이지 제작, 리액트 팀장<br/>
 <https://dingx2.github.io/Haedal-React-introduction/><br/>
