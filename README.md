@@ -12,7 +12,7 @@
 
 
 ##  📫 Portfolio 📫
-[JUST Do IT FE](https://early-sceptre-b04.notion.site/JUST-Do-IT-FE-)c7d15afd94e64fb58618dbcd8e643ddd?pvs=4
+[JUST Do IT FE](https://early-sceptre-b04.notion.site/JUST-Do-IT-FE-c7d15afd94e64fb58618dbcd8e643ddd?pvs=4)
   
 
 <br/>
