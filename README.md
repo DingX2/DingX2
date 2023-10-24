@@ -8,7 +8,11 @@
   
   식품공학X컴퓨터공학을 전공하고 있습니다. <br/>
   도전하는 자세에서 경험으로 배우는 프론트 개발자입니다. <br/>
-  특기는 야근...
+  특기는 야근...<br/><br/>
+
+
+##  📫 Portfolio 📫
+[JUST Do IT FE](https://early-sceptre-b04.notion.site/JUST-Do-IT-FE-)c7d15afd94e64fb58618dbcd8e643ddd?pvs=4
   
 
 <br/>
