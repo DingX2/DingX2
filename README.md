@@ -20,7 +20,7 @@
 <br/>
 
 ##  📫 Awards and Honors 📫
-<div align=left>
+<div align=center>
 정보처리기사 23.12. <br/>
 2023 대구를 빛내는 SW해커톤 <b>최우수상</b> - 앗!침에일기 23.11.22. <br/>
 SW교육원 아이디어 해커톤 경진대회 <b>대상</b>- 우동사리 23.10.31. <br/>
@@ -49,6 +49,7 @@ SW교육원 아이디어 해커톤 경진대회 <b>대상</b>- 우동사리 23.1
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badgestyle=flat-squaret&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/Github&ndash;project-181717?style=for-the-badgestyle=flat-squaret&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badgestyle=flat-squaret&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badgestyle=flat-squaret&logo=discord&logoColor=white">
 
 ### 📓 Deploy 📓
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badgestyle=flat-squaret&logo=nginx&logoColor=white">
