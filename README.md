@@ -41,7 +41,7 @@ SW교육원 아이디어 해커톤 경진대회 <b>대상</b>- 우동사리 23.1
 
 ### 📗 Style 📗
 <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badgestyle=flat-squaret&logo=styledcomponents&logoColor=white">
-<img src="https://img.shields.io/badge/Style&ndash;components-DB7093?style=for-the-badgestyle=flat-squaret&logo=styledcomponents&logoColor=white">
+<img src="https://img.shields.io/badge/Styled&ndash;components-DB7093?style=for-the-badgestyle=flat-squaret&logo=styledcomponents&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badgestyle=flat-squaret&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badgestyle=flat-squaret&logo=CSS3&logoColor=white">
 
