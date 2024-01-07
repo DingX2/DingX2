@@ -81,7 +81,11 @@ SW교육원 아이디어 해커톤 경진대회 <b>대상</b>- 우동사리 23.1
 🐚 21.03 ~ 현재 / IT 학술동아리 해달 / 교육운영진(C언어,리액트,알고리즘,프로젝트)<br/>
 🎄 23.11 ~ <b>Happy New Here</b> 가입자수 117명 서비스 배포 및 유지보수 / 홍보🎄<br/>
 
-
+  <div align = center>
+    
+  ![HappyNewHereVideo](https://github.com/Happy-New-Here/HappyNewHere_FE/assets/96682768/e4fc4f7e-bca0-48b9-8136-458c37531bc4)
+  
+  </div>
   
 &nbsp;&nbsp;&nbsp;이 웹사이트는 서비스의 배포와 유지보수가 진행 중입니다. <br/>
 &nbsp;&nbsp;&nbsp;자세한 내용은 [Happy New Here 웹사이트](http://happynewhere.kro.kr/) 및 [Github 저장소](https://github.com/Happy-New-Here/HappyNewHere_FE/)에서 확인할 수 있습니다.<br/>
