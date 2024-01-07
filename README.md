@@ -6,9 +6,11 @@
   ### Just Do IT!
   #### 연구원을 꿈꾸다 개발자로
   
-  식품공학X컴퓨터공학을 전공하고 있습니다. <br/>
-  도전하는 자세에서 경험으로 배우는 프론트 개발자입니다. <br/>
-  특기는 야근...<br/><br/>
+  ⭐ <b>프로젝트</b>를 사랑하며 경험적으로 학습합니다. <br/>
+  ⭐ 유지보수 및 <b>품질향상</b>을 위한 <b>피드백 반영</b>에 열정을 느낍니다.<br/>
+  ⭐ 다양한 피드백을 위한 <b>디자인 제작</b>과 홍보를 즐깁니다.<br/>
+  ⭐ 글쓰기를 통해 구현의 <b>깊은 이해</b>를 바랍니다.<br/>
+  ⭐ 달달한 음식을 좋아하며 밤샘특화 해커톤 맞춤 인재입니다.<br/><br/>
 
 
 ##  📫 Portfolio 📫
@@ -17,14 +19,36 @@
 
 <br/>
 
-## 📝 Skill 📝
+## 📚 Skill 📚
+### 📘 Programming 📘
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badgestyle=flat-squaret&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badgestyle=flat-squaret&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badgestyle=flat-squaret&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badgestyle=flat-squaret&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badgestyle=flat-squaret&logo=typescript&logoColor=white">
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badgestyle=flat-squaret&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badgestyle=flat-squaret&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badgestyle=flat-squaret&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badgestyle=flat-squaret&logo=C&logoColor=white">
+
+### 📗 Style 📗
+<img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badgestyle=flat-squaret&logo=styledcomponents&logoColor=white">
+<img src="https://img.shields.io/badge/Style&ndash;components-DB7093?style=for-the-badgestyle=flat-squaret&logo=styledcomponents&logoColor=white">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badgestyle=flat-squaret&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badgestyle=flat-squaret&logo=CSS3&logoColor=white">
 
+### 📒 Cooperate 📒
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badgestyle=flat-squaret&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Github&ndash;project-181717?style=for-the-badgestyle=flat-squaret&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badgestyle=flat-squaret&logo=figma&logoColor=white">
+
+### 📓 Deploy 📓
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badgestyle=flat-squaret&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badgestyle=flat-squaret&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badgestyle=flat-squaret&logo=amazonaws&logoColor=white">
+
+<br/>
+<br/>
 
 ##  📫 Tech 📫
   [![Tech Blog Badge](http://img.shields.io/badge/Tech%20blog-000000?style=for-the-badgestyle=flat-squaret&logo=Tistory&logoColor=white"&link=https://dingx2-story.tistory.com/)](https://dingx2-story.tistory.com/)
@@ -37,7 +61,9 @@
 
  
 ## 📫 	Extracurricular activity 📫
-<b>2023 ~ ing</b><br/><br/>
+<b>2024</b><br/><br/>
+
+<b>2023</b><br/><br/>
 🐚21.03~ 현재 / IT 학술동아리 해달 / 교육운영진(C언어,리액트,알고리즘)<br/>
 🐚03.~ / 멋쟁이사자처럼 11기 FE<br/>
 2023 멋쟁이사자처럼 대경권 해커톤 대상 (1st)<br/>
