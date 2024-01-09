@@ -133,7 +133,7 @@ PBL 방식의 데이터 분석가 과정 수료 '도달, 공유, 좋아요, 페�
 🐚 21.09 ~ 21.10. / 코드잇 / 대학생 코딩 캠프 10기 : 코딩 시작!<br/>
 🐚 21.02 직무역량스터디 언더패스 블로그 홍보 파트너십<br/>
 </div>
-
+<br/>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=timeAuto)
 
