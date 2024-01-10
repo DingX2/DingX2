@@ -21,7 +21,7 @@
 
 ##  📫 Awards and Honors 📫
 <div align=center>
-정보처리기사 23.12. <br/>
+정보처리기사 23.12. <s>모실 공작님 찾습니다</s><br/>
 2023 대구를 빛내는 SW해커톤 <b>최우수상</b> - 앗!침에일기 23.11.22. <br/>
 SW교육원 아이디어 해커톤 경진대회 <b>대상</b>- 우동사리 23.10.31. <br/>
 2023 경북대학교 K-디지털플랫폼 리빙랩 아이디어 공모전 - 장려상 23.12.8 <br/>
@@ -107,9 +107,9 @@ SW교육원 아이디어 해커톤 경진대회 <b>대상</b>- 우동사리 23.1
 ![before_Capstone1](https://github.com/DingX2/DingX2/assets/96682768/334dc370-13f0-480e-8d23-de501a1ee677)<br/>
 ![after_Capstone1](https://github.com/DingX2/DingX2/assets/96682768/b9f3349a-497f-4a2d-b12f-a6a65601f673)<br/>
 [https://www-dbpia-co-kr.libproxy.knu.ac.kr/journal/articleDetail?nodeId=NODE11488486](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488486)<br/>
+🐚23.02 ~ 03 / IT학술동아리 해달 / 동아리 소개홈페이지 제작, 리액트 팀장<br/>
 🐚23.01 ~ 02 / 키나바 프렌즈 2기<br/>
 🐚23.01 ~ 02 / 부산관광공사 / 2023 데이터 활용 부산관광 아이디어 공모전 참가<br/>
-🐚23.02 ~ 03 / IT학술동아리 해달 / 동아리 소개홈페이지 제작, 리액트 팀장<br/>
 <br/><br/><br/>
 </div>
 
@@ -117,7 +117,7 @@ SW교육원 아이디어 해커톤 경진대회 <b>대상</b>- 우동사리 23.1
 <div align=left>
 🐚 22.12 / 경북디지털배움터 / 파이썬를 이용한 데이터 분석, 노션활용 강사<br/>
 🐚 22.11 ~ 22.12/ 영양분 점수와 취향을 고려한 메뉴 추천 앱 개발 FE<br/>
-🐚 22.09 ~ 22.11/ CJ 올리브네트웍스 Remote internship Expert Track / Data Science<br/>
+✨ 22.09 ~ 22.11/ CJ 올리브네트웍스 Remote internship Expert Track / Data Science<br/>
 PBL 방식의 데이터 분석가 과정 수료 '도달, 공유, 좋아요, 페이지 뷰간 상관관계 인과관계 파악과 AI 적용'. 서기, 파이썬분석<br/>
 <https://grove-lime-1a2.notion.site/RI_E4_1-0a0c71ed49434a1fba4bda7829dcae5e><br/>
 🐚 22.09 ~ / IT대학 컴퓨터학부 데이터과학전공 복수전공 시작<br/>
