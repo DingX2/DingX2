@@ -1,5 +1,4 @@
   <div align=center>
-  
   ![header](https://capsule-render.vercel.app/api?type=waving&text=Hi%,%20I'm%20DingX2&fontColor=333333&fontSize=40&&color=timeAuto)
 
 
@@ -21,7 +20,7 @@
 
 ##  📫 Awards and Honors 📫
 <div align=center>
-정보처리기사 23.12. <s>모실 공작님 찾습니다</s><br/>
+정보처리기사 23.12. <br/>
 2023 대구를 빛내는 SW해커톤 <b>최우수상</b> - 앗!침에일기 23.11.22. <br/>
 SW교육원 아이디어 해커톤 경진대회 <b>대상</b>- 우동사리 23.10.31. <br/>
 2023 경북대학교 K-디지털플랫폼 리빙랩 아이디어 공모전 - 장려상 23.12.8 <br/>
@@ -136,5 +135,4 @@ PBL 방식의 데이터 분석가 과정 수료 '도달, 공유, 좋아요, 페�
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=timeAuto)
-
 </div>
