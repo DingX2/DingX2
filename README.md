@@ -4,17 +4,14 @@
 
 
   ### Just Do IT!
-  #### 연구원을 꿈꾸다 개발자로
   
-  ⭐ <b>프로젝트</b>를 사랑하며 경험적으로 학습합니다. <br/>
-  ⭐ 유지보수 및 <b>품질향상</b>을 위한 <b>피드백 반영</b>에 열정을 느낍니다.<br/>
-  ⭐ 다양한 피드백을 위한 <b>디자인 제작</b>과 홍보를 즐깁니다.<br/>
-  ⭐ 글쓰기를 통해 구현의 <b>깊은 이해</b>를 바랍니다.<br/>
-  ⭐ 달달한 음식을 좋아하며 밤샘특화 해커톤 맞춤 인재입니다.<br/><br/>
+⭐ (2023.02 ~ 2024.03) **1년간, 8개의 리액트 프로젝트**를 완수하면서 책임감을 갖고 성장했습니다. <br>
+⭐ 사용자의 입장에서 **유지보수 및** **품질향상을 위한 피드백 반영에 열정을 느낍니다.** <br>
+⭐ 다양한 피드백을 위한 디자인 제작(피그마, 영상, 릴스, 카드뉴스)을 하며 홍보를 즐깁니다. <br>
 
 
 ##  📫 Portfolio 📫
-[JUST Do IT FE](https://early-sceptre-b04.notion.site/JUST-Do-IT-FE-c7d15afd94e64fb58618dbcd8e643ddd?pvs=4)
+[JUST Do IT FE](https://early-sceptre-b04.notion.site/SOOHYEON-LEE-c7d15afd94e64fb58618dbcd8e643ddd)
   
 
 <br/>
@@ -31,17 +28,21 @@ SW교육원 아이디어 해커톤 경진대회 <b>대상</b>- 우동사리 23.1
 ### 📘 Programming 📘
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badgestyle=flat-squaret&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badgestyle=flat-squaret&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badgestyle=flat-squaret&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badgestyle=flat-squaret&logo=reactquery&logoColor=white">
+<img src="https://img.shields.io/badge/Zustand-3178C6?style=for-the-badgestyle=flat-squaret&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badgestyle=flat-squaret&logo=redux&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badgestyle=flat-squaret&logo=typescript&logoColor=white"> -->
 
+<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badgestyle=flat-squaret&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badgestyle=flat-squaret&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badgestyle=flat-squaret&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badgestyle=flat-squaret&logo=C&logoColor=white">
 
 ### 📗 Style 📗
-<img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badgestyle=flat-squaret&logo=styledcomponents&logoColor=white">
+<img src="https://img.shields.io/badge/Emotion-D36AC2?style=for-the-badgestyle=flat-squaret&logo=emotion&logoColor=white">
 <img src="https://img.shields.io/badge/Styled&ndash;components-DB7093?style=for-the-badgestyle=flat-squaret&logo=styledcomponents&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badgestyle=flat-squaret&logo=styledcomponents&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badgestyle=flat-squaret&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badgestyle=flat-squaret&logo=CSS3&logoColor=white">
 
@@ -72,25 +73,21 @@ SW교육원 아이디어 해커톤 경진대회 <b>대상</b>- 우동사리 23.1
 ## 📫 	Extracurricular activity 📫
 <b>2024</b><br/><br/>
 <div align=left>  
-✨ 24.01 ~ / 스마일게이트 / <b>Dev camp</b> FE <br/>
+✨ 24.01 ~ 02 / 스마일게이트 / <b>Dev online camp</b> FE <br/>
 <br/><br/><br/>
 </div>
 
 
 <b>2023</b><br/><br/>
 <div align=left>  
-🐚 21.03 ~ 현재 / IT 학술동아리 해달 / 교육운영진(C언어,리액트,알고리즘,프로젝트)<br/>
+🐚 21.03 ~ 24.02 / IT 학술동아리 해달 / 교육운영진(C언어, 리액트, 알고리즘, 프로젝트)<br/>
 🎄 23.11 ~ <b>Happy New Here</b> 가입자수 117명 서비스 배포 및 유지보수 / 홍보🎄<br/>
 
   <div align = center>
     
   ![HappyNewHereVideo](https://github.com/Happy-New-Here/HappyNewHere_FE/assets/96682768/e4fc4f7e-bca0-48b9-8136-458c37531bc4)
   
-  </div>
-  
-&nbsp;&nbsp;&nbsp;이 웹사이트는 서비스의 배포와 유지보수가 진행 중입니다. <br/>
-&nbsp;&nbsp;&nbsp;자세한 내용은 [Happy New Here 웹사이트](http://happynewhere.kro.kr/) 및 [Github 저장소](https://github.com/Happy-New-Here/HappyNewHere_FE/)에서 확인할 수 있습니다.<br/>
-
+  </div> 
   
 ✨ 23.03 ~ / <b>멋쟁이사자처럼 11기</b> / 프론트엔드(FE)개발 트랙<br/>
 ✨ &nbsp;&nbsp; 23.09 대경권 연합 해커톤 대상 “우동사리 - 우리동네 사진사 리스트” 플랫폼 개발<br/>
@@ -99,7 +96,7 @@ SW교육원 아이디어 해커톤 경진대회 <b>대상</b>- 우동사리 23.1
 
 ✨ 23.11 대구를 빛내는 SW 해커톤 최우수상 “앗!침에일기”<br/>
 🐚 23.11 ~ 우아한테크 프리코스 수료<br/>
-✨ 23.09 ~ GDSC (Google Developer Student Clubs) 3기 FE 합격<br/>
+✨ 23.09 ~ <b>GDSC (Google Developer Student Clubs) 3기 FE 합격</b><br/>
 🐚 21.08 ~ 09 / IT 학술동아리 해달 / <b>BadNews</b>자연어처리(NLP) 기술을 적용한 뉴스 요약 프로그램 "BadNews”/ FE팀 GDSC 전원 합격<br/><br/>
 
 🐚 졸업논문 / Aspergillus flavus에서 conF와 conJ가 진균 발달과 Aflatoxin B1의 생산에 미치는 영향 <br/>
