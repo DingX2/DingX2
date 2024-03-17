@@ -97,6 +97,8 @@ SW교육원 아이디어 해커톤 경진대회 <b>대상</b>- 우동사리 23.1
 ✨ 23.11 대구를 빛내는 SW 해커톤 최우수상 “앗!침에일기”<br/>
 🐚 23.11 ~ 우아한테크 프리코스 수료<br/>
 ✨ 23.09 ~ <b>GDSC (Google Developer Student Clubs) 3기 FE 합격</b><br/>
+🐚 2023.09 ~ 2023.11. K-Digital Platform 지역주민 리빙랩 폭염 예방 디지털트윈 녹지 조성 프로젝트<br/>
+🐚 &nbsp;&nbsp;2023.12 2023 경북대학교 K-디지털플랫폼 리빙랩 아이디어 공모전 장려상<br/>
 🐚 21.08 ~ 09 / IT 학술동아리 해달 / <b>BadNews</b>자연어처리(NLP) 기술을 적용한 뉴스 요약 프로그램 "BadNews”/ FE팀 GDSC 전원 합격<br/><br/>
 
 🐚 졸업논문 / Aspergillus flavus에서 conF와 conJ가 진균 발달과 Aflatoxin B1의 생산에 미치는 영향 <br/>
