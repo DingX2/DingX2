@@ -73,6 +73,7 @@ SW교육원 아이디어 해커톤 경진대회 <b>대상</b>- 우동사리 23.1
 ## 📫 	Extracurricular activity 📫
 <b>2024</b><br/><br/>
 <div align=left>  
+✨ 24.04 ~  / 카카오 / 카카오테크캠퍼스 FE
 ✨ 24.01 ~ 02 / 스마일게이트 / <b>Dev online camp</b> FE <br/>
 <br/><br/><br/>
 </div>
