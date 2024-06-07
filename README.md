@@ -11,7 +11,8 @@
 
 
 ##  📫 Portfolio 📫
-[JUST Do IT FE](https://early-sceptre-b04.notion.site/SOOHYEON-LEE-c7d15afd94e64fb58618dbcd8e643ddd)
+[JUST Do IT FE](https://devxuan.netlify.app/)
+
   
 
 <br/>
