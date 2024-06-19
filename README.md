@@ -5,7 +5,7 @@
 
   ### Just Do IT!
   
-⭐ (2023.02 ~ 2024.03) **1년간, 8개의 리액트 프로젝트**를 완수하면서 책임감을 갖고 성장했습니다. <br>
+⭐ (2023.07 ~ ) **1년간, 8개의 리액트 프로젝트**를 완수하면서 책임감을 갖고 성장했습니다. <br>
 ⭐ 사용자의 입장에서 **유지보수 및** **품질향상을 위한 피드백 반영에 열정을 느낍니다.** <br>
 ⭐ 다양한 피드백을 위한 디자인 제작(피그마, 영상, 릴스, 카드뉴스)을 하며 홍보를 즐깁니다. <br>
 
@@ -26,8 +26,12 @@ SW교육원 아이디어 해커톤 경진대회 <b>대상</b>- 우동사리 23.1
 </div>
 
 ## 📚 Skill 📚
+![DingX2 GitHub stats](https://github-readme-stats.vercel.app/api?username=DingX2&show_icons=true&theme=transparent)
+
 ### 📘 Programming 📘
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badgestyle=flat-squaret&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badgestyle=flat-squaret&logo=solid&logoColor=white">
+<img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badgestyle=flat-squaret&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badgestyle=flat-squaret&logo=vite&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badgestyle=flat-squaret&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badgestyle=flat-squaret&logo=reactquery&logoColor=white">
@@ -52,6 +56,8 @@ SW교육원 아이디어 해커톤 경진대회 <b>대상</b>- 우동사리 23.1
 <img src="https://img.shields.io/badge/Github&ndash;project-181717?style=for-the-badgestyle=flat-squaret&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badgestyle=flat-squaret&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badgestyle=flat-squaret&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badgestyle=flat-squaret&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badgestyle=flat-squaret&logo=slack&logoColor=white">
 
 ### 📓 Deploy 📓
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badgestyle=flat-squaret&logo=nginx&logoColor=white">
@@ -74,7 +80,8 @@ SW교육원 아이디어 해커톤 경진대회 <b>대상</b>- 우동사리 23.1
 ## 📫 	Extracurricular activity 📫
 <b>2024</b><br/><br/>
 <div align=left>  
-✨ 24.04 ~  / 카카오 / 카카오테크캠퍼스 FE <br/>
+✨ 24.07  / 한화시스템 ICT / 신입사원 <br/>
+✨ 24.04 ~ 06  / 카카오 / 카카오테크캠퍼스 FE <br/>
 ✨ 24.01 ~ 02 / 스마일게이트 / <b>Dev online camp</b> FE <br/>
 <br/><br/><br/>
 </div>
