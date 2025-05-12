@@ -16,8 +16,8 @@
 
 
 ##  📫 Portfolio 📫
-[JUST Do IT FE](https://devxuan.netlify.app/)
-
+[JUST Do IT FE](https://devxuan.netlify.app/) </br>
+[...끄적이는 기술블로그](https://dingx2-story.tistory.com/)
   
 
 <br/>
